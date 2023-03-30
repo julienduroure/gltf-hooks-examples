@@ -4,7 +4,7 @@ bl_info = {
     "name": "glTF Attributes Change",
     "category": "Generic",
     "version": (1, 0, 0),
-    "blender": (3, 5, 0),
+    "blender": (3, 6, 0),
     'location': '',
     'description': 'Changing attributes data, as order',
     'tracker_url': "",
