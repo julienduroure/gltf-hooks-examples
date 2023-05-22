@@ -4,7 +4,7 @@ bl_info = {
     "name": "glTF Node Name",
     "category": "Generic",
     "version": (1, 0, 0),
-    "blender": (3, 5, 0),
+    "blender": (3, 6, 0),
     'location': '',
     'description': 'Change gltf node name',
     'tracker_url': "",
